@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+p{
+    color:cadetblue;
+}
+.paragraf{
+    color:red;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 5px solid blue;
+    border-radius: 20%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    border: 1px solid black;
+    padding: 15px 50px;
+    background-color: cadetblue;
+}
+a:hover{
+    background-color: red;
+    color: black;
+}
+table{
+    margin: 100px auto;
+}
